@@ -196,7 +196,7 @@ header button:hover{
     background-repeat: no-repeat;
     margin-top: 60px;
 }
-#RD{
+.RD{
     text-align: center;
     padding-top: 50px;
 }
@@ -251,4 +251,141 @@ header button:hover{
 ._location p{
     padding-left: 180px;
     font-size: 24px;
+}
+.blog{
+    margin-top: 50px;
+}
+.blogs{
+    display: flex;
+}
+.blog1{
+    background-image: url('picture2/blog1.png');
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    height: 350px;
+    width: 500px;
+    color: white;
+    margin-left: 150px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.blog1 p{
+    text-align: center;
+    font-size: 28px;
+    padding-top: 150px;
+}
+.blog2{
+    margin-left: 5px;
+}
+._blog2{
+    /* border: 1px solid black; */
+    background-image: url('picture2/blog3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 170px;
+    width: 500px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+._blog2 p{
+    text-align: center;
+    font-size: 28px;
+    padding-top: 70px;
+}
+._blog3{
+    /* border: 1px solid black; */
+    background-image: url('picture2/blog2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 170px;
+    width: 500px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+._blog3 p{
+    text-align: center;
+    font-size: 28px;
+    padding-top: 70px;
+}
+.happycustomerboard{
+    margin-top: 50px;
+}
+.happycustomer{
+    display: flex;
+}
+._happycustomer1{
+    margin-top: 50px;
+    width: 500px;
+    height: 200px;
+    margin-left: 150px;
+    box-shadow: 5px 5px 20px rgba(150, 150, 237, 0.621);
+    
+}
+._happycustomer1 p{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.testifier{
+    margin-top: 40px;
+    margin-left: 40px;
+    display: flex;
+}
+.testifier img{
+    height: 35px;
+}
+.testifier small{
+    font-size: 15px;
+    padding-left: 20px;
+}
+._happycustomer2{
+    margin-top: 50px;
+    width: 500px;
+    height: 200px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 20px rgba(150, 150, 237, 0.621);
+    
+}
+._happycustomer2 p{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+footer{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: #e6e6e6;
+}
+footer p{
+    padding-top: 35px;
+    padding-left: 35px;
+}
+.nav2{
+    margin-left: 80px;
+    margin-top: 35px;
+    padding-top: 2px;
+}
+.nav2 a{
+    padding-left: 30px;
+    color: black;
+    text-decoration: none;
+}
+.nav2 a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.socials{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.socials img{
+    height: 25px;
+    padding-left: 25px;
 }
