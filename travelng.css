@@ -258,6 +258,7 @@ header button:hover{
 .location img{
     height: 280px;
     width: 380px;
+    border-radius: 10px;
 }
 .location h1{
     padding-top: 15px;
